@@ -648,7 +648,7 @@ section.contacts form .error {
         justify-content: center;
     }
     nav.navbar.noTransparrent button.navbar-toggler {
-        margin: 0;
+        margin: 15px auto;
     }
     nav.navbar ul{
         padding-right: 0;
@@ -667,7 +667,7 @@ section.contacts form .error {
         height: 90%;
     }
     section.contacts .overlay .testimonials .slider .carousel .carousel-item {
-        min-height: 250px;
+        min-height: 450px;
     }
 }
 
@@ -678,7 +678,7 @@ section.contacts form .error {
         padding-left: 0.75rem;
     }
     section.contacts .overlay .testimonials .slider .carousel .carousel-item {
-        min-height: 390px;
+        min-height: 490px;
     }
     section.contacts .overlay .contact-info ul.social li a i {
         width: 40px;
@@ -688,6 +688,7 @@ section.contacts form .error {
     section.contacts .overlay .contact-info .form form .form-group input, section.contacts .overlay .contact-info .form form .form-group textarea {
         font-size: 14px;
     }
+    
 }
 
 /* @media (max-width: 990px) and (min-width: 768px){
